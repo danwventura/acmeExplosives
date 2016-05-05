@@ -1,0 +1,45 @@
+{
+    "types": [
+        {   
+            "categoryid": 0,
+            "id": 0,
+            "name": "Condiments",
+            "description": "You can forget about mid-afternoon coffee, these lunches will give you an explosion of energy"
+        },
+    
+       {
+            "categoryid": 0,
+            "id": 1,
+            "name": "Dinner",
+            "description": "No more having to cook dinner ever again"
+        },
+    
+       {
+            "categoryid": 0,
+            "id": 2, 
+            "name": "Dessert",
+            "description": "Our take on cherries jubilee and many other desserts with explosive flavors"
+        },
+    
+       {
+            "categoryid": 1,
+            "id": 3,
+            "name": "Cartoon Characters",
+            "description": "Pinatas with a POP created with their favorite cartoon character in mind"
+        },
+    
+       {
+            "categoryid": 1,
+            "id": 4,
+            "name": "Presidential Candidates",
+            "description": "Pinatas with a POP created with their favorite presidential candidate in mind. Includes real ferret hair wig!"
+        },
+    
+       {
+            "categoryid": 1,
+            "id": 5,
+            "name": "Animals",
+            "description": "Pinatas with a POP created with their favorite animal in mind"
+        }
+    ]
+}

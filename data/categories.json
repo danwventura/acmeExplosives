@@ -1,0 +1,14 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Edible Explosives",
+            "description": "Weaponized food grade items intended for intense hunger attacks"
+        },
+        {
+            "id": 1,
+            "name": "Pyrotechnic Pinatas",
+            "description": "Tired of waiting for those kids to broke open your pinata?"
+        }
+    ]
+}

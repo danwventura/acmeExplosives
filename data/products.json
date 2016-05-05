@@ -1,0 +1,118 @@
+{
+    "products": [
+        {
+            "typeid": 0,
+            "productid":0,
+            "name": "Ketchup Mine"
+        },
+        
+        {
+            "typeid": 0,
+            "productid":1,
+            "name": "Mustard Gas Bomb"
+        },
+        
+        {
+            "typeid": 0,
+            "productid":2,
+            "name": "Sriracha Smoke Bomb"
+        },
+        
+
+
+        {
+            "typeid": 1,
+            "productid": 0,
+            "name": "Spud Cannon"
+        },
+
+         {
+            "typeid": 1,
+            "productid": 1,
+            "name": "Radioactive Ramen"
+        },
+
+         {
+            "typeid": 1,
+            "productid": 2,
+            "name": "Patriot Missile Pizza"
+        },
+
+
+    
+        {
+            "typeid": 2,
+            "productid": 0,
+            "name": "Marshmallow Bomb"
+        },
+    
+           {
+            "typeid": 2,
+            "productid": 1,
+            "name": "Flaming Bananas"
+        },
+    
+           {
+            "typeid": 2,
+            "productid": 2,
+            "name": "Howitzer Surprise"
+        },
+    
+        
+        {
+            "typeid": 3,
+            "productid": 0,
+            "name": "Dora the Exploder"
+        },
+  
+         {
+            "typeid": 3,
+            "productid": 1,
+            "name": "Spongebob Boompants"
+        },
+  
+         {
+            "typeid": 3,
+            "productid": 2,
+            "name": ""
+        },
+  
+         {
+            "typeid": 4,
+            "productid": 0,
+            "name": "Tempestuous Trump"
+        },
+  
+         {
+            "typeid": 4,
+            "productid": 1,
+            "name": "Hazardous Hillary"
+        },
+  
+         {
+            "typeid": 4,
+            "productid": 2,
+            "name": "Chaotic Cruz"
+        },
+  
+         {
+            "typeid": 5,
+            "productid": 0,
+            "name": "Nuclear Nematode"
+        },
+  
+         {
+            "typeid": 5,
+            "productid": 1,
+            "name": "Detonative Dragon"
+        },
+  
+         {
+            "typeid": 5,
+            "productid": 2,
+            "name": "Unstable Orangutan"
+        }
+  
+
+    ]
+}
