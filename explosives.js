@@ -60,17 +60,43 @@ categoriesAjax()
   acmeCat = data1.categories;
 })
 
+
 // Take data2 as an argument and sets acmeTyp array equal to data that is returned from second ajax
 typesAjax()
 .then(function(data2){
   acmeTyp = data2.types;
-  console.log("acmeTyp", acmeTyp);
+  // console.log("acmeTyp", acmeTyp);
 })
 
 // Take data3 as an argument and sets acmeProd array equal to data that is returned from third ajax
 productsAjax()
   .then(function(data3) {
   acmeProd = data3.products
-  console.log("acmeProd", acmeProd);
+  
+
+  $('#edible').click(function(){
+   for (var i = 0; i <= 2; i++) {
+     let edibleString = "";
+     let firstType = acmeTyp[0].name;
+     let secondType = acmeTyp[1].name;
+     let thirdType = acmeTyp[2].name;
+
+      edibleString += `<div>${firstType}</div><div>${acmeProd}</div>`
+      edibleString += `<div>${firstType}</div><div>${acmeProd}</div>`
+      edibleString += `<div>${firstType}</div><div>${acmeProd}</div>`
+      edibleString += `<div>${secondType}</div><div>${acmeProd}</div>`
+      edibleString += `<div>${secondType}</div><div>${acmeProd}</div>`
+      edibleString += `<div>${secondType}</div><div>${acmeProd}</div>`
+      edibleString += `<div>${thirdType}</div><div>${acmeProd}</div>`
+      edibleString += `<div>${thirdType}</div><div>${acmeProd}</div>`
+      edibleString += `<div>${thirdType}</div><div>${acmeProd}</div>`
+    // $('#container').append
+
+    console.log("edibleString", edibleString);
+      }
+    })
   })
+
+
+
 
